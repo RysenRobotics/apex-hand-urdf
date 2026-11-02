@@ -3,7 +3,7 @@
 > All future development has moved to the new repository:
 > 👉 **https://github.com/RysenRobotics/rysen-description**
 >
-> Please use the new repository for the latest models, MuJoCo simulation, and tactile simulation examples.
+> Please use the new repository for the latest models, MuJoCo and Isaacsim simulation, and tactile simulation.
 > Thank you for your support!
 
 **Language / 语言：** **English** · [中文](README.zh.md)
