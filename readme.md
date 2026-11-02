@@ -1,3 +1,11 @@
+> ⚠️ **This repository has been archived and is no longer actively maintained.**
+>
+> All future development has moved to the new repository:
+> 👉 **https://github.com/RysenRobotics/rysen-description**
+>
+> Please use the new repository for the latest models, MuJoCo simulation, and tactile simulation examples.
+> Thank you for your support!
+
 **Language / 语言：** **English** · [中文](README.zh.md)
 
 **Version / 版本：** **0.2.0** (see [`VERSION`](VERSION))
